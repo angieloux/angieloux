@@ -2,7 +2,7 @@
 
 ## I'm a web developer based in Melbourne, Australia. 
 
-Check out my website [here](angelajohnson.dev) ✨
+Check out my website [here](https://angelajohnson.dev) ✨
 
 ### 📫 Contact me at:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angela.johnson943@gmail.com)
