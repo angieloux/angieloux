@@ -30,7 +30,7 @@ Check out my website [here](https://angelajohnson.dev) ✨
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Deployment tools
+## 🚀 Deployment tools 
 ![Heroku](https://a11ybadges.com/badge?logo=heroku)
 ![WP Engine](https://a11ybadges.com/badge?logo=wpengine)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
