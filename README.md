@@ -1,6 +1,6 @@
 # Hey, I'm AJ 👋
 
-## I'm a web developer based in Melbourne, Australia. 
+## I'm a web developer based in Brisbane, Australia (and remote). 
 
 ### 📫 Contact me at:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angela.johnson943@gmail.com)
